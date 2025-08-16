@@ -15,6 +15,8 @@ Note that it only has minimal differences from 'US-International' to achieve the
 
 **For a more in-depth (or advanced) approach, please also see&nbsp;:**
 
-UltimateKEYS - GitHub&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS
+UltimateKEYS&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS
+
+UltimateKEYS Core&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS-core
 
 Website&nbsp;: &nbsp;https://pieter-degroote.github.io/
